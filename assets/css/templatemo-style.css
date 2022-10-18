@@ -126,7 +126,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #8c363e;
+    color: #181415;
 }
 
 /* Sidebar Menu */
@@ -223,7 +223,7 @@ html {
     left: 10%;
   -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
   -webkit-overflow-scrolling: touch;
-  background-color: #a43f49;
+  background-color: #2c2b2b;
   box-sizing: border-box;
   height: 100vh;  
   max-height: 100vh !important;
